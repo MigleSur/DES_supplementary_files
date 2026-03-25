@@ -28,3 +28,4 @@ Reference sequences for pangenome of A. ruhlandii together with gene presence ap
 - Log files contain parameter traces for convergence assessment (e.g., ESS, posterior distributions)
 
 - Multiple independent runs were performed to ensure convergence and consistency
+
