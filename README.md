@@ -18,10 +18,6 @@ BactDating output containing dated phylogeny and model parameters
   - Log files from 3 independent MCMC runs
 
 
-## Pangenome
-
-Reference sequences for pangenome of A. ruhlandii together with gene presence apsence matrix.
-
 ### Notes:
 - XML files define model parameters, priors, and MCMC settings used in BEAST analyses
 
@@ -29,3 +25,6 @@ Reference sequences for pangenome of A. ruhlandii together with gene presence ap
 
 - Multiple independent runs were performed to ensure convergence and consistency
 
+## Pangenome
+
+Reference sequences for pangenome of A. ruhlandii together with gene presence apsence matrix.
