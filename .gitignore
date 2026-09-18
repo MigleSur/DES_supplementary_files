@@ -1,0 +1,4 @@
+
+# Large alignment / BEAST files
+core_gene_alignment_filtered.aln
+*.sequence_norecomb_clean.aln.xml
